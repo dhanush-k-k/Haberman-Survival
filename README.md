@@ -11,7 +11,7 @@ Dhanush Kumar
 
 ## Prerequisites
 * Project requires Python 3.11.0 to run.
-* Please click on <a herf = "https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival">Jupyter NoteBook</a> which contains the data set
+*Please click on <a href="https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival" target="_blank">Habberman Data</a> which contains the data set
 
 ## Installation steps for Jupyter
 * Please click on <a herf = "https://docs.jupyter.org/en/latest/install/notebook-classic.html">Jupyter NoteBook</a> which contains instructions to install using IPython Kernal.
