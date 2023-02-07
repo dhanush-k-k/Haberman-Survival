@@ -11,11 +11,12 @@ Dhanush Kumar
 
 ## Prerequisites
 * Project requires Python 3.11.0 to run.
-*Please click on <a href="https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival" target="_blank">Habberman Data</a> which contains the data set
+* Please click on <a href="https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival" target="_blank">Habberman Data</a> which contains the data set
 
 ## Installation steps for Jupyter
-* Please click on <a herf = "https://docs.jupyter.org/en/latest/install/notebook-classic.html">Jupyter NoteBook</a> which contains instructions to install using IPython Kernal.
-* Optional : Please click on <a herf = "https://docs.anaconda.com/anaconda/install/index.html">Anaconda </a> which contanins instructions to install Anaconda. 
+* Please click on <a href="https://docs.jupyter.org/en/latest/install/notebook-classic.html" target="_blank">Jupyter NoteBook</a> which contains instructions to install using IPython Kernal. 
+
+* Optional : Please click on <a href="https://docs.anaconda.com/anaconda/install/index.html" target="_blank">Anaconda</a> which contanins instructions to install Anaconda. 
 
 ## Methodology and Conclusion
 1. Among the various classification methods employes for the prediction, KNN and Decision tree have consistently showed better performance scores compared to other when the program was run multiple times.<br><br>
